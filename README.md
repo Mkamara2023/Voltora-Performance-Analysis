@@ -10,12 +10,9 @@
 * [Executive Summary](#executive-summary)
 * [North Star Metrics](#Northstar-Metrics)
 * [Customer Lifecycle Stability](#Customer-Lifecycle-Stability)
+* [Volatility Analysis](#Volatility-Analysis)
+* [Volume vs Revenue Concentration](Volume-vs-Revenue-Concentration)
 
-## Project Background
-(Your text here...)
-
-## Executive Summary
-(Your text here...)
 
 __ __ 
 
