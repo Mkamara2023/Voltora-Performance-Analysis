@@ -5,6 +5,18 @@
 
 # Voltora- Performance Analysis
 
+# Table of Contents
+* [Project Background](#project-background)
+* [Executive Summary](#executive-summary)
+* [North Star Metrics](#Northstar-Metrics)
+* [Customer Lifecycle Stability](#Customer-Lifecycle-Stability)
+
+## Project Background
+(Your text here...)
+
+## Executive Summary
+(Your text here...)
+
 __ __ 
 
 
